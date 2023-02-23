@@ -4,7 +4,7 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx}",
     "./pages/**/*.{js,ts,jsx,tsx}",
     "./components/**/*.{js,ts,jsx,tsx}",
- 
+
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
@@ -12,8 +12,10 @@ module.exports = {
     extend: {
       colors: {
         Primary: "#8553FB",
+        orange: "#82D616",
+        green: "#82D616",
       },
     },
   },
   plugins: [],
-}
+};

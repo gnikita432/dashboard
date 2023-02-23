@@ -28,7 +28,7 @@ const Main = () => {
       <div class="flex flex-col sm:flex-row">
         <div class="w-full sm:w-8/12 lg:w-8/12">
           <Card />
-          {/* <Graph/> */}
+          <Graph/>
         </div>
         <div class="w-full sm:w-4/12 lg:w-4/12">
           <Calendar />
