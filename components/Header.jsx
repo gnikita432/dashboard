@@ -1,7 +1,13 @@
 import React from "react";
 
+
 const Header = () => {
-  return <div>Header</div>;
+  return <div>
+    <div>Dashboard</div>
+    <div>
+{/* <CgProfile/> */}
+    </div>
+  </div>;
 };
 
 export default Header;
